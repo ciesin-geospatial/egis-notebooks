@@ -1,5 +1,6 @@
-# egis-notebooks
-A set of example notebooks on how to use Earthdata GIS service through RESTful and Python API
+# egis-python-notebooks
+Earthdata GIS (EGIS) (https://gis.earthdata.nasa.gov) Python Notebooks
+A set of example notebooks on how to use the services through RESTful and Python API
 
 ## Usage
 
@@ -8,6 +9,17 @@ EGIS provides access to REST endpoints without the need to use EDL at present, u
 EGIS at certain (almost all) instances provide OGC services including WMS, WCS, and WFS
 
 These are often become valuable when developing applications and services or cutting over from geoserver endpoints
+
+## Notebooks
+
+- EGIS Rest API
+- EGIS Python API
+  
+Use the available environment.yml to build a venv on your local machine to work with egis services
+
+## Helper Functions
+
+- Helper.py has a list of common functions and the required args to be passed to the endpoints to query the service
 
 ## Services Available Today!
 
