@@ -25,7 +25,6 @@ Use the available environment.yml to build a venv on your local machine to work 
 
 These are services that are accessible to the public and avaialble today through EGIS. 
 
-| Service Short Name | Service REST Endpoint | WMS | WCS | WFS |
 | Title                                                                                                               | Sharing Level | EGIS Endpoint                                                                                                                                                                                                                                                                              | WMS   | WFS   | WCS   |
 | ------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | ----- | ----- |
 | GPW Version 4 Basic Demographic Characteristics (Adjusted to UN Country Totals)                                     | Public        | [https://gis.earthdata.nasa.gov/image/rest/services/gpw-v4/gpw_v4_basic_demographic_characteristics_rev11/ImageServer](https://gis.earthdata.nasa.gov/image/rest/services/gpw-v4/gpw_v4_basic_demographic_characteristics_rev11/ImageServer)                                               | FALSE | FALSE | FALSE |
